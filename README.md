@@ -1,6 +1,6 @@
-##Project Name: Burger Devourer
-#Description: 
+## Project Name: Burger Devourer
+# Description: 
 User can add burgers and devour them.    
-#Technology: 
+# Technology: 
 MySQL, Express, Node, Handlebars
 
