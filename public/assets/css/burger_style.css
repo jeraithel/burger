@@ -1,0 +1,36 @@
+.container {
+    margin: auto;
+}
+
+h1 {
+    padding: 10px;
+}
+
+h2 {
+    margin: 10px;
+}
+
+button {
+    margin: 5px;
+}
+
+label {
+    margin: 5px;
+}
+
+#ready {
+    background-color: lightgrey;
+}
+
+#eaten {
+    background-color: lightsalmon;
+}
+
+#add-row {
+    background-color: lightgreen;
+}
+
+#background {
+    background-color: lightgreen;
+    min-height: 1200px;
+}
